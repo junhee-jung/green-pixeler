@@ -12,3 +12,5 @@ Please note that **"FILE_LOCATION"** **MUST** be changed - if you  put entire fo
 Again please note there are many things that needs to be changed - you are more than welcome to adjust the code however you see fit to minimise the file location / csv name changing. <br/>
 common bug? I notice is that sometimes it omit ONE image randomly per run, I don't fully understand why so I would simply recommend running the script twice, Again I am not sure why this is happening. I hope someone with better Python knowledge can help me out here... <br/> 
    [HSV_finder.py](https://github.com/junhee-jung/green-pixeler/blob/main/HSV_green_pixeler.py)
+
+- There are some pip install required dependencies, I am not quite sure which is required / how to install it but if import BLAH does not work, you probably have to pip install BLAH it or might have to Google
